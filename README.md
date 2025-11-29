@@ -19,8 +19,6 @@
 
 ### 🎬 Data Pipeline Demo Video
 
-[📹 Watch Data Pipeline Demo Video]
-
 https://github.com/user-attachments/assets/a8c839de-0d06-4dd7-9141-ff13ae458457
 
 > วิดีโอสาธิตการทำงานของ Data Pipeline ตั้งแต่ Ingest จนถึง Report
