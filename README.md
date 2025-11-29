@@ -111,8 +111,6 @@ BUCKET_NAME = "cs341-taxi-{student_id}-bucket"
 
 ```
 taxi/
-├── Before/
-│   └── MiniChallenge_TaxiType_Jan2024_6609612178.ipynb  # Local processing version
 ├── After/
 │   ├── MiniChallenge_TaxiType_Jan2024_6609612178_After.ipynb  # AWS Cloud version
 │   ├── README.md
@@ -160,7 +158,7 @@ taxi/
 ---
 
 ## 👨‍💻 Author
-**NAME:** Ratthatummanoon Kosasang
+**NAME:** Ratthatummanoon Kosasang 
 **Student ID:** 6609612178
 
 ---
