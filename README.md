@@ -17,6 +17,12 @@
 
 ![AWS Data Pipeline Architecture](/After/diagram.png)
 
+### 🎬 Data Pipeline Demo Video
+
+[📹 Watch Data Pipeline Demo Video](/After/data-pipeline.mp4)
+
+> วิดีโอสาธิตการทำงานของ Data Pipeline ตั้งแต่ Ingest จนถึง Report
+
 ### ⚙️ How It Works: The Serverless Data Pipeline
 
 การทำงานแบ่งเป็น 5 ขั้นตอนตาม Data Flow:
