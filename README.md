@@ -15,7 +15,7 @@
 
 ### 📐 Architecture Diagram
 
-![AWS Data Pipeline Architecture](diagram.png)
+![AWS Data Pipeline Architecture](/After/diagram.png)
 
 ### ⚙️ How It Works: The Serverless Data Pipeline
 
